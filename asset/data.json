@@ -1,0 +1,37 @@
+[
+  {
+    "nama_penerima" : "Jonson Bridge",
+    "alamat" : "jalan Pluit Permai no 4, garuda Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "no_hp" : "0881112223344",
+    "catatan" : "samping indomaret",
+    "chosen" : true
+  },
+  {
+    "nama_penerima" : "User Data 00",
+    "alamat" : "jalan ciracas bogor raya Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "no_hp" : "111222333444",
+    "catatan" : "samping rumah a",
+    "chosen" : false
+  },
+  {
+    "nama_penerima" : "User B",
+    "alamat" : "jalan bojong raya no 123 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "no_hp" : "0xxxx112xxxxx",
+    "catatan" : "",
+    "chosen" : false
+  },
+  {
+    "nama_penerima" : "User C",
+    "alamat" : "jalan Jakarta Raya pusat Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "no_hp" : "11111111111111",
+    "catatan" : "dekat monas",
+    "chosen" : false
+  },
+  {
+    "nama_penerima" : "User D",
+    "alamat" : "jalan jalan Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "no_hp" : "11111111111111",
+    "catatan" : "dekat monas",
+    "chosen" : false
+  }
+]
